@@ -6,10 +6,15 @@
 #### TetrisRL 是什么
 
 TetrisRL是一款以俄罗斯方块为战斗方式的rougelike游戏。
+
 灵感来自 [Puzzle Quest](https://en.wikipedia.org/wiki/Puzzle_Quest:_Challenge_of_the_Warlords), [Mirror](https://en.wikipedia.org/wiki/Tetris_99), [Tetris 99](https://en.wikipedia.org/wiki/Tetris_99)。
+
 玩家扮演冒险者，遇到怪物后开始进行俄罗斯方块,
+
 消除方块会对敌方造成伤害，敌方会用各种各样的手段攻击冒险者，冒险者血量小于等于0或是屏幕被填满则会死亡。
+
 冒险过程中冒险者可以获得金币，装备，神器等物品，增加自己的战斗能力。
+
 因为是一款Roguelike游戏，所以会有随机地图，随机物品，随机敌人，永久死亡等要素。
 
 #### 游戏截图
