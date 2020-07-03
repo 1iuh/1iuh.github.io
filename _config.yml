@@ -1,4 +1,4 @@
 theme: jekyll-theme-slate
 title: TetrisRL
-description: tetris rougelike 俄罗斯方块
-show_downloads: "false"
+description: 一款俄罗斯方块rougelike游戏
+show_downloads: false
